@@ -1,7 +1,7 @@
 package com.keke.bridge;
 
 public abstract class Phone {
-    private Brand brand;
+    private final Brand brand;
 
     public Phone(Brand brand) {
         super();
