@@ -8,7 +8,7 @@ public class FoldedPhone extends Phone {
     @Override
     public void open() {
         super.open();
-        System.out.println("FoldedPhone open!");
+        System.out.println("FoldedPhone open!!");
     }
 
     @Override
